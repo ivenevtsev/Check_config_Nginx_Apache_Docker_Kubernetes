@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/chconfig.dir/main.cpp.o  -o chconfig.exe -Wl,--out-implib,libchconfig.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
